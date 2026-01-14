@@ -5,3 +5,5 @@ scikit-learn
 nltk
 beautifulsoup4
 distance
+fuzzywuzzy
+python-Levenshtein
