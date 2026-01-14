@@ -4,6 +4,4 @@ pandas
 scikit-learn==1.2.2
 nltk
 beautifulsoup4
-distance
-fuzzywuzzy
-python-Levenshtein
+rapidfuzz
