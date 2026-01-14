@@ -4,3 +4,4 @@ pandas
 scikit-learn
 nltk
 beautifulsoup4
+distance
