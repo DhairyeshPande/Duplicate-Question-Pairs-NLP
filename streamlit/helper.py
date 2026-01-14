@@ -1,7 +1,8 @@
 import re
 from bs4 import BeautifulSoup
-import distance
-from fuzzywuzzy import fuzz
+# import distance
+# from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import pickle
 import numpy as np
 
